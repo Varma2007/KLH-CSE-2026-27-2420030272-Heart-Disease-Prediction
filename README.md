@@ -98,13 +98,6 @@ The project includes an interactive dashboard for:
 
 ## Installation
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
-```
-
 ### Install Dependencies
 
 ```bash
